@@ -35,7 +35,7 @@ If you have not worked with ATtiny85 before and need support with the basic oper
 GOOD LUCK & ENJOY THE PROGRAMMABLE EARRING FOR YOURSELF OR AS A GIFT FOR YOUR LOVED ONES !
 
 
-[1]: <LINK TO YOUTUBE VIDEO HERE>
+[1]: https://youtu.be/szZ8kH5_06M
 
 [2]: https://circuitdigest.com/microcontroller-projects/programming-attiny85-microcontroller-ic-using-arduin
 
